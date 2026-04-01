@@ -13,4 +13,3 @@ steps:
     inlineScript: |
       echo "Logged in to Azure"
       az account show
-``
